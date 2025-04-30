@@ -12,12 +12,6 @@ This project uses an LSTM model to forecast stock prices based on past data and 
    ```bash
    git clone https://github.com/Dwamenachrist/FUTURE_ML_02.git
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *Needs Python 3.8+ and libraries like `yfinance`, `tensorflow`, and `pandas`.*
-
 ## Usage
 1. Get stock data:
    ```python
